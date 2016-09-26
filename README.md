@@ -1,0 +1,145 @@
+#admaster
+127.0.0.1 397c0.admaster.com.cn
+127.0.0.1 8b6dfa.v.admaster.com.cn
+127.0.0.1 8dcyqu.c.admaster.com.cn
+127.0.0.1 c.admaster.com.cn
+127.0.0.1 clickc.admaster.com.cn
+127.0.0.1 cm.admaster.com.cn
+127.0.0.1 fun.adx.admaster.com.cn
+127.0.0.1 iclick.cm.admaster.com.cn
+127.0.0.1 letv.axp.admaster.com.cn
+127.0.0.1 pptv.cm.admaster.com.cn
+127.0.0.1 pxl.idx.admaster.com.cn
+127.0.0.1 rtb.admaster.com.cn
+127.0.0.1 smt.admaster.com.cn
+127.0.0.1 sohutv.cm.admaster.com.cn
+127.0.0.1 v.admaster.com.cn
+127.0.0.1 vamaker.cm.admaster.com.cn
+127.0.0.1 viqiyi.admaster.com.cn
+127.0.0.1 vletv.admaster.com.cn
+127.0.0.1 vqq.admaster.com.cn
+127.0.0.1 vsohu.admaster.com.cn
+127.0.0.1 vyk.admaster.com.cn
+127.0.0.1 wisemedia.cm.admaster.com.cn
+#irs
+127.0.0.1 irs01.net
+127.0.0.1 irs01.com
+127.0.0.1 m.irs01.com
+127.0.0.1 a.irs01.com
+127.0.0.1 bitauto.irs01.com
+127.0.0.1 easou.irs01.com
+127.0.0.1 iqiyi.irs01.com
+127.0.0.1 letv.irs01.com
+127.0.0.1 qq.irs01.com
+127.0.0.1 sohu.irs01.com
+#youku.com
+127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
+127.0.0.1 themis.ykimg.com
+127.0.0.1 cm.miaozhen.atm.youku.com
+127.0.0.1 html.atm.youku.com
+127.0.0.1 hudong.pl.youku.com
+127.0.0.1 m.yes.youku.com
+127.0.0.1 miaozhen.atm.youku.com
+127.0.0.1 player.lstat.youku.com
+127.0.0.1 static.atm.youku.com
+127.0.0.1 v.l.youku.com
+127.0.0.1 v2html.atm.youku.com
+127.0.0.1 val.atm.youku.com
+127.0.0.1 valb.atm.youku.com
+127.0.0.1 valc.atm.youku.com
+127.0.0.1 valo.atm.youku.com
+127.0.0.1 valp.atm.youku.com
+127.0.0.1 vid.atm.youku.com
+#sohu/video
+127.0.0.1 click.hd.sohu.com.cn
+127.0.0.1 click2.hd.sohu.com
+127.0.0.1 count.vrs.sohu.com
+127.0.0.1 ctr.hd.sohu.com
+127.0.0.1 p.aty.sohu.com
+127.0.0.1 pb.hd.sohu.com.cn
+127.0.0.1 pv.hd.sohu.com
+127.0.0.1 vg.aty.sohu.com
+127.0.0.1 vm.aty.sohu.com
+127.0.0.1 wl.hd.sohu.com
+#pptv.com
+127.0.0.1 asimgs.pplive.cn
+127.0.0.1 ins.pplive.com
+127.0.0.1 gas.data.pplive.com
+127.0.0.1 ads.aplus.pptv.com
+127.0.0.1 ads.aplusapi.pptv.com
+127.0.0.1 as.aplus.pptv.com
+127.0.0.1 de.as.pptv.com
+127.0.0.1 imagecache.g.pptv.com
+127.0.0.1 pub.aplus.pptv.com
+127.0.0.1 static.g.pptv.com
+127.0.0.1 tj.g.pptv.com
+127.0.0.1 pptv.adx.admaster.com.cn
+127.0.0.1 tpptv.ipdx.cn.miaozhen.com
+#mgtv.com
+127.0.0.1 stat.titan.imgo.tv
+127.0.0.1 g.wan.mgtv.com
+127.0.0.1 hunantv.m.cn.miaozhen.com
+127.0.0.1 s.mini.kuaibo.com
+127.0.0.1 mango2.yunfan.com
+127.0.0.1 mango.yunfan.com
+#le.com
+127.0.0.1 ark.letv.com
+127.0.0.1 fz.letv.com
+127.0.0.1 g3.letv.com
+#v.qq.com
+127.0.0.1 bla.gtimg.com
+127.0.0.1 ra.gtimg.com
+127.0.0.1 vmat.gtimg.com
+127.0.0.1 adsrich.qq.com
+127.0.0.1 jqmt.qq.com
+127.0.0.1 jsqmt.qq.com
+127.0.0.1 pingfore.qq.com
+127.0.0.1 pinghot.qq.com
+127.0.0.1 tj.video.qq.com
+127.0.0.1 imc.l.qq.com
+127.0.0.1 l.qq.com
+127.0.0.1 livec.l.qq.com
+127.0.0.1 livep.l.qq.com
+127.0.0.1 lives.l.qq.com
+127.0.0.1 cm.l.qq.com
+127.0.0.1 m.l.qq.com
+127.0.0.1 p.l.qq.com
+127.0.0.1 x.l.qq.com
+127.0.0.1 p.tencentmind.com
+#sina.cn
+127.0.0.1 cm.dmp.sina.cn
+127.0.0.1 sdkapp.mobile.sina.cn
+127.0.0.1 sdkclick.mobile.sina.cn
+127.0.0.1 wapwbclick.mobile.sina.cn
+127.0.0.1 wbapp.mobile.sina.cn
+#sina.com.cn
+127.0.0.1 img.adbox.sina.com.cn
+127.0.0.1 img.amp.ad.sina.com.cn
+127.0.0.1 interest.mix.sina.com.cn
+127.0.0.1 log.mix.sina.com.cn
+127.0.0.1 m.beacon.sina.com.cn
+127.0.0.1 mg.games.sina.com.cn
+127.0.0.1 pfp.sina.com.cn
+127.0.0.1 rm.sina.com.cn
+127.0.0.1 woocall.sina.com.cn
+#m.iask.sina.com.cn
+127.0.0.1 dd.iaskgo.com
+127.0.0.1 qiye11.ejunshi.net
+#sina-icast
+127.0.0.1 cast.ra.icast.cn
+127.0.0.1 rack.ra.icast.cn
+127.0.0.1 rmtx.ra.icast.cn
+127.0.0.1 track.ra.icast.cn
+#sina-weibo
+127.0.0.1 click.uve.mobile.sina.cn
+127.0.0.1 trends.mobile.sina.cn
+127.0.0.1 u1.img.mobile.sina.cn
+127.0.0.1 wbclick.mobile.sina.cn
+127.0.0.1 wbpctips.mobile.sina.cn
+127.0.0.1 biz.weibo.com
+127.0.0.1 s.alitui.weibo.com
+127.0.0.1 zymo.mps.weibo.com
+127.0.0.1 game.weibo.cn
+127.0.0.1 gw5.push.mcp.weibo.cn
+127.0.0.1 m.game.weibo.cn
+127.0.0.1 promote.biz.weibo.cng 
